@@ -29,6 +29,12 @@ A lightweight and automated Bash script to benchmark your VPS performance, inclu
 ### 1. Clone or download the script
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/souravjoy7vps-benchmark/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/souravjoy7/vps-benchmark/main/install.sh)
+```
+
+### 2. Uninstall The Script 
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/souravjoy7/vps-benchmark/main/install.sh) --uninstall
+
 
 
