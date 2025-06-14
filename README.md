@@ -36,5 +36,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/souravjoy7/vps-benchmark/main/
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/souravjoy7/vps-benchmark/main/install.sh) --uninstall
 
-
-
